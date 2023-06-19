@@ -1,4 +1,4 @@
-Hi! I'm Desheng and a new SW Developer --- Just started out in the field and learning more as i go! Feel free to reach out and connect with me through LinkedIn.
+Hi! I'm Desheng and a new SW Developer --- Just started out in the field and learning more as I go! Feel free to reach out and connect with me through LinkedIn.
 I'm from UT Austin and am majoring in Electrical and Computer Engineering with a concnetration in Software Engineering and Design.
 Here's how to get in contact with me:
 email: deshengliu@yahoo.com
